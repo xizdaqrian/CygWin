@@ -1,0 +1,13 @@
+BoldAsFont=no
+Columns=192
+Rows=51
+Term=xterm-256color
+Printer=CutePDF Writer
+BackgroundColour=0,0,0
+FontSmoothing=full
+ForegroundColour=192,192,192
+Transparency=off
+Font=Envy Code R
+BellFlash=yes
+FontHeight=10
+Answerback=xterm-color
